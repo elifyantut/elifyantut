@@ -1,9 +1,8 @@
 ### Hi there, I'm Elif :blush:
 <hr>
 <br/>
-<font> :computer: I'm a Computer Engineering student(graduating in 2021)</font>
-<br/0>
-<font> :star: I’m currently learning .Net Core</font>
+<font> :computer: I'm a Computer Engineering (graduating in 2021)</font>
+<br/0>>
 <hr>
 
 ### :raising_hand: Reach out to me
