@@ -1,9 +1,4 @@
 ### Hi there, I'm Elif :blush:
-<hr>
-<br/>
-
-<br/0>>
-<hr>
 
 ### :raising_hand: Reach out to me
 
