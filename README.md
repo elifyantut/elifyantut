@@ -2,7 +2,7 @@
 
 <hr>
 
-### :raising_hand: Reach out to me
+### Reach out to me :raising_hand: 
 
 <a href="https://www.linkedin.com/in/elifnuryantut/">
 <img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left"/>
