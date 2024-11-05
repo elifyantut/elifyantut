@@ -1,6 +1,6 @@
 ### Hi there, I'm Elif :blush:
 
-<br/>
+
 ### :raising_hand: Reach out to me
 
 <a href="https://www.linkedin.com/in/elifnuryantut/">
