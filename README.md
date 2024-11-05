@@ -1,7 +1,7 @@
 ### Hi there, I'm Elif :blush:
 <hr>
 <br/>
-<font> :computer: I'm a Computer Engineering (graduating in 2021)</font>
+
 <br/0>>
 <hr>
 
